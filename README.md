@@ -2,7 +2,7 @@
 
 Dr460n4ir3coin is a cryptocurrency like Bitcoin, although it does not use SHA256 as
 its proof of work (POW). Taking development cues from Tenebrix and Litecoin,
-Dogecoin currently employs a simplified variant of scrypt.
+Dr469n4ir3coin currently employs a simplified variant of scrypt.
 
 **Website:** [dr460n4ir3.io](https://dr460n4ir3.io)
 
